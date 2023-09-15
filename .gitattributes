@@ -5,3 +5,7 @@
 /**        export-ignore
 /addons    !export-ignore
 /addons/** !export-ignore
+/addons/kaykit_prototype_bits/** export-ignore
+/addons/kaykit_prototype_bits/Assets !export-ignore
+/addons/kaykit_prototype_bits/Assets/** export-ignore
+/addons/kaykit_prototype_bits/Assets/gltf !export-ignore
