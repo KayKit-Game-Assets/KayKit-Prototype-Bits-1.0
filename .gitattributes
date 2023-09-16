@@ -7,5 +7,6 @@
 /addons/** !export-ignore
 /addons/kaykit_prototype_bits/** export-ignore
 /addons/kaykit_prototype_bits/Assets !export-ignore
-/addons/kaykit_prototype_bits/Assets/** export-ignore
-/addons/kaykit_prototype_bits/Assets/gltf !export-ignore
+/addons/kaykit_prototype_bits/Assets/** !export-ignore
+/addons/kaykit_prototype_bits/Assets/fbx export-ignore
+/addons/kaykit_prototype_bits/Assets/fbx(unity) export-ignore
